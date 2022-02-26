@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions which his Maiesties commissioners for the loane of money to his Maiestie throughout the kingdome, are exactly and effectually to obserue and follow</title>
+            <author>England and Wales. Commissioners for the loane of money to His Maiestie throughout the kingdome.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73921</idno>
+            <idno type="STC">STC 7686</idno>
+            <idno type="STC">ESTC S125335</idno>
+            <idno type="EEBO-CITATION">99898368</idno>
+            <idno type="PROQUEST">99898368</idno>
+            <idno type="VID">132062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2062:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions which his Maiesties commissioners for the loane of money to his Maiestie throughout the kingdome, are exactly and effectually to obserue and follow</title>
+                  <author>England and Wales. Commissioners for the loane of money to His Maiestie throughout the kingdome.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Bonham Norton and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1626.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loans --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132062:1"/>
+            <pb facs="tcp:132062:1"/>
+            <p>INSTRVCTIONS which His Maieſties Commiſsio<g ref="char:EOLhyphen"/>ners <hi>for the loane of money to His</hi> Maieſtie throughout the Kingdome, <hi>are exactly and effectually to</hi> obſerue and follow.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Bonham Norton</hi> and <hi>Iohn Bill,</hi> Printers to the KINGS moſt <hi>Excellent Maieſtie.</hi> 1626.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132062:2"/>
+            <pb facs="tcp:132062:2"/>
+            <head>Inſtructions which Our Commiſsi<g ref="char:EOLhyphen"/>oners for the loane of money vn<g ref="char:EOLhyphen"/>to <g ref="char:V">Ʋ</g>s in Our County of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> are exactly and effectually to ob<g ref="char:EOLhyphen"/>ſerue and follow.</head>
+            <p n="1">1 <seg rend="decorInit">F</seg>Irſt, with all ſpeede after the receipt of this Our Commiſſion, yee ſhall aſſemble your ſelues to<g ref="char:EOLhyphen"/>gether, and vpon conference and ad<g ref="char:EOLhyphen"/>uice betweene your ſelues, yee ſhall de<g ref="char:EOLhyphen"/>termine in what ma<g ref="char:cmbAbbrStroke">̄</g>ner ye wil proceede to the execution of this Our Commiſſi<g ref="char:EOLhyphen"/>on in the ſeuerall parts and diuiſions of this whole County. And before your parting from this firſt place and time of your meeting, you ſhall your ſelues, for a good example to others, lend vnto Vs theſe ſeuerall ſummes of money, which are heereby required of you to be lent, teſtified by the writing of your names with your owne hands, that when ye ſhall in Our name require o<g ref="char:EOLhyphen"/>thers to lend, they ſhall diſcerne your
+<pb facs="tcp:132062:3"/>owne forwardnes, and that you do not mooue others to that which ye forbeare to doe your ſelues, the Lords and others of Our priuie Councell attending Our perſon hauing already done the ſame, by the ſubſcription of euery of their names. And before your parting, you ſhall cauſe ſo many of thoſe of that County to appeare before you, and pro<g ref="char:EOLhyphen"/>ceed with them according to theſe Our Commiſſion and Inſtructions.</p>
+            <p n="2">2 And becauſe We would expedite this ſeruice, and eaſe you of importuni<g ref="char:EOLhyphen"/>tie, and leaue no way to the partiall in<g ref="char:EOLhyphen"/>formation of others, in the vnder or o<g ref="char:EOLhyphen"/>uer valuation of mens eſtates (which is often ſubiect to much errour) We haue thought this to be the moſt indifferent and equall way of coniecturing at euery mans ability to lend, by taking thoſe rates for Our guide, at which they were aſſeſſed in the bookes of the laſt Subſi<g ref="char:EOLhyphen"/>die, and to require the loane of ſo much money only, as the entire rate and value comes vnto, at which they are there ra<g ref="char:EOLhyphen"/>ted and ſet; As namely, Hee that is ſet
+<pb facs="tcp:132062:3"/>at one hundred pounds in Lands, to lend vs one hundred pounds in money, and ſo after that rate for a more or leſſe ſumme; And hee that is ſet at one hun<g ref="char:EOLhyphen"/>dred pounds in goods, to lend Vs one hundred markes; And hee that is ſet at ten pounds in goods to lend vs twenty nobles, and ſo <hi>pro rata</hi> for a greater or leſſer ſumme. And where there are bea<g ref="char:EOLhyphen"/>rers or contributors, they ſhall aſſiſt the Subſidie man.</p>
+            <p n="3">3 When ye haue agreed betweene your ſelues of the ſeuerall daies and pla<g ref="char:EOLhyphen"/>ces of your ſittings, and which of you ſhall attend it, at euery ſeuerall place of your meetings in the ſeuerall parts of this County (which Wee would haue you to appoint as ſpeedily as may bee, and to attend without intermiſſion) you ſhall ſend your warrants vnder your hands, or the hands of two of you at the leaſt, to the high Conſtables, petty Conſtables, and other officers, of, and in thoſe ſeuerall diuiſions, perſonally to warne all ſuch perſons who were aſſeſ<g ref="char:EOLhyphen"/>ſed for the laſt Subſidie, or to leaue ſuch
+<pb facs="tcp:132062:4"/>warning in writing at their dwelling houſes, that they faile not to giue you meeting, at the times and places appoin<g ref="char:EOLhyphen"/>ted by you, and that thoſe Officers to whom your warrants are directed, faile not to giue an account vnto you of their ſeruice therein. And ſuch as haue beene warned and doe not appeare be<g ref="char:EOLhyphen"/>fore you at the day and place appointed, you ſhall ſend for by warrant, and bind them ouer to appeare before the Lords and others of Our Priuie Councell.</p>
+            <p n="4">4 That at euery of thoſe meetings when there is a conuenient number aſ<g ref="char:EOLhyphen"/>ſembled, you vſe all poſſible endeauors, to cauſe euery of them willingly and cheerefully to lend theſe Summes vnto vs, opening vnto them the neceſſitie, and vnauoidableneſſe of this courſe, and ſetting before them, that Our Honour, the reputation of this Nation, the true Religion, and common ſafety of Vs and Our people, and of Our Friends and Allies, are all ingaged in this common Cauſe, That there is now no time of diſputing, but of acting that which con<g ref="char:EOLhyphen"/>cernes
+<pb facs="tcp:132062:4"/>Our common Defence, and aſſu<g ref="char:EOLhyphen"/>ring them that this courſe which is at this time enforced by neceſſitie, and to which no ordinarie rules of Law can be preſcribed, ſhall not bee drawen into example or preſident.</p>
+            <p n="5">5 That if ye ſhal meete with any ob<g ref="char:EOLhyphen"/>iections, or ſcruples rayſed, which may bee impediments to this Our Seruice, That yee vſe all diligence to remoue them, and ſatisfie them, And if any ſhall obiect or whiſper, That if this way of rayſing of money take place, then no Parliament ſhall hereafter bee called; That yee ſatisfie ſuch, That the ſudden<g ref="char:EOLhyphen"/>nes and importance of the occaſions are ſuch, as cannot poſſibly admit of that de<g ref="char:EOLhyphen"/>lay, which the Summoning, Aſſembling and Reſolutions of a Parliament do ne<g ref="char:EOLhyphen"/>ceſſarily draw with it, And that it is farre from Our heart to make any ſuch vſe of the loue of Our people; But that We are fully purpoſed to call a Parliament, as ſoone as fitly Wee may, and as often as the Common-wealth and State-oc<g ref="char:EOLhyphen"/>caſions ſhall require it; And that by
+<pb facs="tcp:132062:5"/>their affections ſhewed vnto Vs in this way of neceſſitie, they ſhall the ſooner inuite Vs to the frequent vſe of Parlia<g ref="char:EOLhyphen"/>ments, being confident in the hearts of Our people.</p>
+            <p n="6">6 That ye appoint the dayes of pai<g ref="char:EOLhyphen"/>ment of the Summes of Money to bee lent vnto Vs, to bee within fourteene dayes, and perſwade ſuch as ſhall bee able, to pay it at one entire payment, the better to accommodate Our great oc<g ref="char:EOLhyphen"/>caſions, which are preſent and preſſing: But to ſuch as in your good diſcretions yee ſhall thinke it more conuenient, yee may accept of the one halfe at fourteene dayes, and the other halfe to bee payd within three moneths next after the ſaid fourteene dayes.</p>
+            <p n="7">7 That you treate apart with euery one of thoſe who are to lend vnto Vs, and not in the preſence or hearing of any others, vnleſſe you ſee cauſe to the con<g ref="char:EOLhyphen"/>trary in your good diſcretions: And as euery one giueth conſent, That you cauſe him or her to ſet his or her name or marke to a Booke, Roll, or Liſte to
+<pb facs="tcp:132062:5"/>bee made by you, teſtifying their aſſent, with a marke or diſtinction for the times of payment accorded vnto; And if ye ſhall finde any, who either ſhall de<g ref="char:EOLhyphen"/>nie to lend vnto Vs, or ſhall make de<g ref="char:EOLhyphen"/>layes or excuſes, let them know they doe thereby incurre Our high diſpleaſure: And if they perſiſt in their obſtinacie, notwithſtanding that, Then yee ſhall examine ſuch perſon vpon oath, whe<g ref="char:EOLhyphen"/>ther he hath been dealt withall, perſwa<g ref="char:EOLhyphen"/>ded or practiſed with to denie or refuſe to lend, or to make excuſe for his not lending, who hath ſo dealt with him, and what ſpeeches or perſwaſions he or they haue vſed tending to that purpoſe? And ye ſhall alſo charge euery ſuch per<g ref="char:EOLhyphen"/>ſon in Our Name vpon his Allegiance not to diſcloſe to any other, what his an<g ref="char:EOLhyphen"/>ſwere was; And if any ſhall refuſe to lend, or refuſe to take this oath, you ſhall binde him ouer to appeare before Vs, or our Priuy Counſell, to anſwere his contempt.</p>
+            <p n="8">8 You ſhall ſhew your owne affe<g ref="char:EOLhyphen"/>ctions and zeale to this buſineſſe, and
+<pb facs="tcp:132062:6"/>to Our ſeruice, in your effectuall dea<g ref="char:EOLhyphen"/>ling with all men freely and cheereful<g ref="char:EOLhyphen"/>ly to runne this courſe, and in vſing your powers, fauours, &amp; credits which euery of you haue in the Countie, a<g ref="char:EOLhyphen"/>mongſt the Gentlemen, Freeholders, and others, to aduance this buſineſſe, that it may come off cheerefully and roundly. And that you your ſelues by any meanes diſcouer not any coldneſſe, or vnwillingneſſe to the ſeruice, where<g ref="char:EOLhyphen"/>by any others to their diſcouragement, may gather that you haue no heart to the Worke, although for formes ſake you muſt take it vpon you, being em<g ref="char:EOLhyphen"/>ployed therein: but that in your owne perſons ye heartily and really intend it as a worke of infinite importance to Our ſeruice, and the ſeruice and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>afety of the Common-wealth.</p>
+            <p n="9">9 That in your treating with your neighbours, about this buſineſſe, you ſhew your owne diſcretions and affe<g ref="char:EOLhyphen"/>ctions, by making choice of ſuch to be<g ref="char:EOLhyphen"/>gin with, who are likely to giue the beſt examples: and when you haue a com<g ref="char:EOLhyphen"/>petent
+<pb facs="tcp:132062:6"/>number of hands to the Roll or Liſt of the Lenders, that yee ſhew the ſame to others as they come before you, to lead them to lend in the like manner.</p>
+            <p n="10">10 Ye ſhall obſerue and diſcouer by all good wayes and meanes, whether any publiquely or vnder-hand be wor<g ref="char:EOLhyphen"/>kers, or perſwaders of others diſſent or dislike from this courſe, or to hinder the good diſpoſitions of any others to lend vnto Vs: and as much as you may, ye ſhall hinder all diſcourſes about it. And ye ſhall certifie Our Priuie Coun<g ref="char:EOLhyphen"/>cell in writing of the names, qualities, and dwelling places of all ſuch refra<g ref="char:EOLhyphen"/>ctary perſons with all ſpeed, and eſpeci<g ref="char:EOLhyphen"/>ally if ye ſhall diſcouer any Combinati<g ref="char:EOLhyphen"/>on or confederacie, againſt theſe Our proceedings.</p>
+            <p n="11">11 Ye ſhal let all men know whom it ſhall concerne, that we are well pleaſed, vpon lending of theſe ſummes required, to remit all that which by Letters in Our Name was deſired, vpon the late beneuolence, as a free gift: And if any haue already payd to Our vſe any ſuch
+<pb facs="tcp:132062:7"/>ſumme, that the ſame be accepted for ſo much, as in part of this loane, And if it exceed the ſumme deſired to bee lent, that the ouerplus ſhall be repayed vnto them without fee or charge, and in like ſort, where it ſhall be equall, no further ſumme ſhall then bee required. And this being made to appeare vnto the Collector or Collectors of this Loane, either by certificate of ſuch perſon who collected the ſaid Bencuolence, or priuy Seales, or otherwiſe, it ſhall be ſufficient warrant to the parties that are to lend, to defalke accordingly, as alſo to the Colle<g ref="char:EOLhyphen"/>ctor for not requiring or collecting any more.</p>
+            <p n="12">12 Likewiſe if ſithence the laſt Par<g ref="char:EOLhyphen"/>liament, any haue receiued priuie Seales, Our pleaſure is, that if they haue not yet payd in any moneys therevpon, that they agreeing to the loane of the ſumme required, be excuſed of the payment of the Priuy Seales. And if they haue alrea<g ref="char:EOLhyphen"/>dy payd into Our Exchequer, or to any Collector to Our vſe any ſuch ſummes of money vpon thoſe Priuie Seales, if
+<pb facs="tcp:132062:7"/>the ſame bee leſſe then the money now deſired to be lent, it ſhall be accepted in part of payment thereof, if it be more, then the ſurpluſſage thereof, vpon demaund ſhall be repayd without fee or other charge: and in like ſort, where the Priuie Seale ſhall bee equall with the ſumme hereby deſired to bee lent, there the Priuie Seale to bee accepted for the loane. And theſe Our Inſtructions, to<g ref="char:EOLhyphen"/>gether with your Certificate thereof, ſhall bee a ſufficient Warrant for the ſame.</p>
+            <p n="13">13 If ye either know or finde any able perſon not ſet in the laſt Subſidie, That yee deale with euery ſuch inhabi<g ref="char:EOLhyphen"/>tant in the ſame manner and according to the ſame proportion as is held with other Subſidie men, according to your iudgements and beſt diſcretions: and inſert their names and ſummes in the ſaid booke, roll, or liſt amongſt the o<g ref="char:EOLhyphen"/>thers of them. But ye are not to admit of any ſuit to be made, or any reaſons to bee giuen for the abating of any ſummes, the time and the inſtant occa<g ref="char:EOLhyphen"/>ſions
+<pb facs="tcp:132062:8"/>not now admitting any ſuch di<g ref="char:EOLhyphen"/>ſpute, which would but diſturbe and protract the ſeruice. But where you ſhall finde pouerty and diſabilitie, there to vſe a diſcretion when it comes to be collected.</p>
+            <p n="14">14 That ye appoint ſuch and ſo ma<g ref="char:EOLhyphen"/>ny fit and able perſons to bee collectors of the ſummes of money within this County, as you ſhall thinke fit, of whom you ſhall take good bonds for true pai<g ref="char:EOLhyphen"/>ment of the ſummes they ſhall receiue. The Collectors are to pay in the mo<g ref="char:EOLhyphen"/>neyes into the receipt of Our Exche<g ref="char:EOLhyphen"/>quer, without fee or reward to be paid by them, within foureteene dayes after the receipt hereof. And as ſoone as yee haue finiſhed this ſeruice (which Wee require you to performe with all poſſi<g ref="char:EOLhyphen"/>ble diligence and ſpeed) ye are to certifie vnto Our Priuie Councell the names of the Collectors (who ſhall haue ſuch al<g ref="char:EOLhyphen"/>lowance made vnto them by the Lord Treaſurer as ſhall be fit) and the names and ſummes of the ſeuerall perſons, who thus ſhall lend vnto Vs, together
+<pb facs="tcp:132062:8"/>with the ſaid booke, roll, or liſt thereof.</p>
+            <p n="15">15 Yee ſhall deliuer to euery Colle<g ref="char:EOLhyphen"/>ctor nominated by you, a perfect tran<g ref="char:EOLhyphen"/>ſcript vnder your hands, or vnder the hands of two of you, of the names and ſummes of euery perſon promiſing and vndertaking to lend vnto Vs, and the Collector who receiueth the moneyes, ſhall vpon receipt thereof deliuer an ac<g ref="char:EOLhyphen"/>quittance for the ſame, or ſo much as hee receiueth, which ſhall bee a ſuffi<g ref="char:EOLhyphen"/>cient warrant for the repayment there<g ref="char:EOLhyphen"/>of vnto the Lender, and a ſufficient te<g ref="char:EOLhyphen"/>ſtimony that hee hath payd the ſame. And euery ſuch Collectour within the foureteene dayes before <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mited, is to pay in the moneyes within his Colle<g ref="char:EOLhyphen"/>ction as aforeſaid, or returne in vnder his hand in writing, the names of all ſuch as refuſed or neglected to pay vn<g ref="char:EOLhyphen"/>to him the ſummes expreſſed.</p>
+            <p n="16">16 And if any of the Commiſſio<g ref="char:EOLhyphen"/>ners ſhall be abſent from the execution of this ſeruice, (which wee hope will not be) That the reſt of you the Com<g ref="char:EOLhyphen"/>miſſioners certifie their Names, who
+<pb facs="tcp:132062:9"/>ſhall make ſuch default; as alſo the Names of all ſuch, who vpon theſe Sum<g ref="char:EOLhyphen"/>mons doe not come and attend you.</p>
+            <p n="17">17 And Wee doe hereby explane and declare, That the charge giuen by the ſaid Commiſſion, or by theſe Our Inſtructions vpon faith and allegiance to attend this ſeruice, bee not meant or extended to any of Our Priuy Counſell, for that they are daylie imployed other<g ref="char:EOLhyphen"/>wiſe in Our ſeruice: Nor to any Peere of this Realme not Reſident in the County where he is named a Commiſ<g ref="char:EOLhyphen"/>ſioner, nor to any other that by Our ſpecial direction is otherwiſe employed in Our ſeruic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>And theſe Our Inſtructions Wee re<g ref="char:EOLhyphen"/>quire and command you vpon your faith and Alleagiance vnto Vs, to keepe ſecret to yourſelues, and not impart or diſcloſe the ſame to any others.</p>
+            <argument>
+               <p>
+                  <hi>Theſe instructions for the eaſe of tranſcribing, and the ſpeedier diſpatch of the ſeruice, are ordered to be Printed, but no more Copies to be made or ta<g ref="char:EOLhyphen"/>ken, then ſhall bee deliuered to the Commiſsioners vpon their diuiding themſelues into ſeuerall parts of the County, for execution of the Commiſſion.</hi>
+               </p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132062:9"/>
+            <pb facs="tcp:132062:10"/>
+            <pb facs="tcp:132062:10" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
